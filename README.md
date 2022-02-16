@@ -14,9 +14,9 @@ A website where a student can find their day to day materials which they are usi
 * Use Github, vscode, Open CV like software or libraries
 
 ## 🛠 Technologies used
--[HTML]
--[CSS]
--[JAVASCRIPT]
+- [HTML]()
+- [CSS]()
+- [JAVASCRIPT]()
 - [React.js](https://reactjs.org/).
 - [Node (Express.js)](http://expressjs.com/).
 - [MongoDB](https://www.mongodb.com/).
