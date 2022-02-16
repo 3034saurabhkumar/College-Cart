@@ -40,7 +40,7 @@ This will create a new branch of the project (with your changes) which we can th
 
 To get started with this app, follow the instructions below.
 
-- git clone https://github.com
+- git clone https://github.com/3034saurabhkumar/College-Cart.git
 - open in Visual Studio Code
 - npm start
 - start MongoDB server by typing "mongod" on cmd
