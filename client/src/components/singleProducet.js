@@ -102,8 +102,8 @@ class SingleProduct extends React.Component {
                                 </ol>
                             </div>
 
-                            <div>
-                                <button class="button" style={{ textAlign: 'center', fontWeight: 'bold' }}>Place Your Order</button>
+                            <div style={{marginTop: 10}}>
+                                <button class="button" style={{ textAlign: 'center', fontWeight: 'bold', margin: 0 }}>Place Your Order</button>
                             </div>
 
 
