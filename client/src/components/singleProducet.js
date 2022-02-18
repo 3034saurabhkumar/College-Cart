@@ -100,7 +100,10 @@ class SingleProduct extends React.Component {
                                     <li>Check the item before you buy</li>
                                     <li>Pay only after collecting item</li>
                                 </ol>
+                            </div>
 
+                            <div>
+                                <button class="button" style={{ textAlign: 'center', fontWeight: 'bold' }}>Place Your Order</button>
                             </div>
 
 
